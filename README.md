@@ -19,4 +19,4 @@ _"It works I guess"_
  * [ ] Handle albums
  * [ ] Un-"quick hack"-ify the code
 * [ ] GUI
-* [ ] Library
+ * [ ] Library
